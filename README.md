@@ -1,5 +1,5 @@
 # web3-mobile
-Sample web3 application(Dapp) using Flutter framwwork.  
+Sample web3 application(Dapp) using Flutter framework.  
 * use WalletConnect for wallet connection.
 * use only web3(ethereum) backend (without web2 servers).
 ## Ethereum tab
